@@ -2,8 +2,6 @@
 
 **如何svn**
 
-事实上, github不仅支持git, 也支持svn
-
 **如何git**
 
 - http://jingyan.baidu.com/article/f7ff0bfc7181492e27bb1360.html: git的第一步
@@ -22,9 +20,9 @@
 
 - http://git-scm.com/book/zh/v2: 比较完善的git资料
 
-**git与github**
+**svb, git与github**
 
-github用git做版本控制的项目托管平台, git是分布式版本控制工具. git bash是git shell的一种, 而github提供的github desktop是集成了git shell. github desktop还含有一个客户端, 但并不好用, 效果并不如单纯的git bash和git shell 
+github用git做版本控制的项目托管平台, git是分布式版本控制工具. git bash是git shell的一种, 而github提供的github desktop是集成了git shell. github desktop还含有一个客户端, 但并不好用, 效果并不如单纯的git bash和git shell. 事实上, github不仅支持git, 也支持svn 
 
 **如何使用github**
 
