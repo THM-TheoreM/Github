@@ -34,6 +34,8 @@ github的替代品有https://www.zhihu.com/question/19573222
 
 - http://www.yangzhiping.com/tech/github.html
 
+- https://github.com/tiimgreen/github-cheat-sheet
+
 - https://www.zhihu.com/question/36974348
 
 **github与git, svn**
