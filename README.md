@@ -8,7 +8,7 @@
 
 - https://github.com/git-for-windows/git: 官方github
 
-- http://pan.baidu.com/s/1skFLrMt#path=%252Fpub%252Fgit: 国内镜像
+- http://pan.baidu.com/s/1skFLrMt#path=%252Fpub%252Fgit: 国内资源
 
 - http://jingyan.baidu.com/article/f7ff0bfc7181492e27bb1360.html: git的第一步
 
@@ -28,13 +28,7 @@
 
 **如何使用github**
 
-github的替代品有https://www.zhihu.com/question/19573222
-
-- github jobs: https://jobs.github.com/
-
-- github gist: https://gist.github.com/
-
-- github developer: https://developer.github.com/
+- https://www.zhihu.com/question/19573222: github的替代品
 
 - https://github.com/github: 官方github
 
@@ -49,6 +43,14 @@ github的替代品有https://www.zhihu.com/question/19573222
 **github与git, svn**
 
 github用git做版本控制的项目托管平台, git是分布式版本控制工具. git bash是git shell的一种, 而github提供的github desktop是集成了git shell. github desktop还含有一个客户端, 但并不好用, 效果并不如单纯的git bash和git shell. 事实上, github不仅支持git, 也支持svn
+
+**github相关**
+
+- github jobs: https://jobs.github.com/
+
+- github gist: https://gist.github.com/
+
+- github developer: https://developer.github.com/
 
 **explore**
 
