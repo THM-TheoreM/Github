@@ -36,6 +36,8 @@ github的替代品有https://www.zhihu.com/question/19573222
 
 - github developer: https://developer.github.com/
 
+- https://github.com/github: 官方github
+
 - https://www.zhihu.com/question/20070065
 
 - http://www.yangzhiping.com/tech/github.html
