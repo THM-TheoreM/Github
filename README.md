@@ -4,6 +4,12 @@
 
 **如何git**
 
+- https://git-scm.com/: 官网
+
+- https://github.com/git-for-windows/git: 官方github
+
+- http://pan.baidu.com/s/1skFLrMt#path=%252Fpub%252Fgit: 国内镜像
+
 - http://jingyan.baidu.com/article/f7ff0bfc7181492e27bb1360.html: git的第一步
 
 - http://rogerdudler.github.io/git-guide/index.zh.html: git的入门教程
