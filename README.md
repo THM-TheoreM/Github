@@ -2,6 +2,14 @@
 
 **如何svn**
 
+svn全称是subversion, 是一种集中式版本控制系统. tortoisesvn是svn的一个免费开源客户端
+
+- https://tortoisesvn.net/: 官网
+
+- https://github.com/TortoiseGit/tortoisesvn: 官方github
+
+- http://jingyan.baidu.com/article/358570f6638aa4ce4724fcf7.html: svn的第一步
+
 **如何git**
 
 - https://git-scm.com/: 官网
@@ -22,7 +30,7 @@
   
   是一致的
 
-- http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000：相当棒的git教程
+- http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000: 相当棒的git教程
 
 - http://git-scm.com/book/zh/v2: 比较完善的git资料
 
