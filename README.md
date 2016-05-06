@@ -10,6 +10,14 @@ svn全称是subversion, 是一种集中式版本控制系统. tortoisesvn是svn�
 
 - http://jingyan.baidu.com/article/358570f6638aa4ce4724fcf7.html: svn的第一步
 
+- http://www.subversion.org.cn/tsvndoc/: 比较完善的svn资料
+
+  svn checkout: 建立本地仓库
+
+  svn update: 更新本地仓库
+
+  svn commit: 提交本地仓库
+
 **如何git**
 
 - https://git-scm.com/: 官网
