@@ -66,7 +66,15 @@ github用git做版本控制的项目托管平台, git是分布式版本控制工
 
 - github gist: https://gist.github.com/
 
+- github help: https://help.github.com/
+
+- github services: https://training.github.com/
+
+- github status: https://status.github.com/
+
 - github developer: https://developer.github.com/
+
+- github shop: https://github.myshopify.com/
 
 **explore**
 
