@@ -134,7 +134,7 @@ gitpage旨在为你的gihub个人账号或者是团队账号作宣传, 或者是
 
 **readme.md**
 
-- readme.md支持makedown语言
+- readme.md支持markdown语言
 
 - http://blog.csdn.net/kaitiren/article/details/38513715
 
