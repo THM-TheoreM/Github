@@ -96,9 +96,7 @@ github用git做版本控制的项目托管平台, git是分布式版本控制工
 
 - gist: https://www.zhihu.com/question/21343711
 
-### repository
-
-仓库就是你的项目, 右上方有三个图标
+### 仓库
 
 - watch: 邮件关注
 
@@ -115,10 +113,6 @@ github用git做版本控制的项目托管平台, git是分布式版本控制工
 - pulse: 对pull requests，issues和commits的管理和统计
 
 - graphs: 有关仓库信息的可视化统计
-
-### how to write a book
-
-- https://github.com/gaoxinge/Github/blob/master/content/content.md
 
 ### gitpage
 
