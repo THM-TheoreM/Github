@@ -1,52 +1,48 @@
 ﻿# Github
 
-**如何svn**
+## 如何svn
 
-svn全称是subversion, 是一种集中式版本控制系统. tortoisesvn是svn的一个免费开源客户端
+svn全称是subversion, 是一种集中式版本控制系统。tortoisesvn是svn的一个免费开源客户端。
 
-- https://tortoisesvn.net/: 官网
+- [官网](https://tortoisesvn.net) 
 
-- https://github.com/TortoiseGit/tortoisesvn: 官方github
+- [官方github](https://github.com/TortoiseGit/tortoisesvn) 
 
-- http://jingyan.baidu.com/article/358570f6638aa4ce4724fcf7.html: svn的第一步
+- [svn的第一步](http://jingyan.baidu.com/article/358570f6638aa4ce4724fcf7.html)
 
-- http://www.subversion.org.cn/tsvndoc/: 比较完善的svn资料
+- [比较完善的svn资料](http://www.subversion.org.cn/tsvndoc)
 
+```
   svn checkout: 建立本地仓库
 
   svn update: 更新本地仓库
 
   svn commit: 提交本地仓库
+```
 
-**如何git**
+## 如何git
 
-- https://git-scm.com/: 官网
+- [官网](https://git-scm.com)
 
-- https://github.com/git-for-windows/git: 官方github
+- [官方github](https://github.com/git-for-windows/git)
 
-- http://pan.baidu.com/s/1skFLrMt#path=%252Fpub%252Fgit: 国内资源
+- [国内资源](http://pan.baidu.com/s/1skFLrMt#path=%252Fpub%252Fgit)
 
-- http://jingyan.baidu.com/article/f7ff0bfc7181492e27bb1360.html: git的第一步
+- [git的第一步](http://jingyan.baidu.com/article/f7ff0bfc7181492e27bb1360.html)
 
-- http://rogerdudler.github.io/git-guide/index.zh.html: git的入门教程
+- [git的入门教程](http://rogerdudler.github.io/git-guide/index.zh.html)
 
-- http://www.yangzhiping.com/tech/git.html: 其中的**日常提常用交命令**中
+- [日常常用提交命令](http://www.yangzhiping.com/tech/git.html)
 
-  git commit -a -m "a file is delect"
-  
-  git commit -am "a file is delect"
-  
-  是一致的
+- [相当棒的git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
-- http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000: 相当棒的git教程
+- [比较完善的git资料](http://git-scm.com/book/zh/v2) 
 
-- http://git-scm.com/book/zh/v2: 比较完善的git资料
+## 如何使用github
 
-**如何使用github**
+- [github的替代品](https://www.zhihu.com/question/19573222)
 
-- https://www.zhihu.com/question/19573222: github的替代品
-
-- https://github.com/github: 官方github
+- [官方github](https://github.com/github)
 
 - https://www.zhihu.com/question/20070065
 
@@ -58,29 +54,31 @@ svn全称是subversion, 是一种集中式版本控制系统. tortoisesvn是svn�
 
 - https://www.zhihu.com/question/23498424
 
-**github与git, svn**
+- [gitbook](https://www.gitbook.com)
 
-github用git做版本控制的项目托管平台, git是分布式版本控制工具. git bash是git shell的一种, 而github提供的github desktop是集成了git shell. github desktop还含有一个客户端, 但并不好用, 效果并不如单纯的git bash和git shell. 事实上, github不仅支持git, 也支持svn
+### github与git, svn
 
-**github相关**
+github用git做版本控制的项目托管平台, git是分布式版本控制工具。git bash是git shell的一种, 而github提供的github desktop是集成了git shell。github desktop还含有一个客户端, 但并不好用, 效果并不如单纯的git bash和git shell。事实上, github不仅支持git, 也支持svn。
 
-- github jobs: https://jobs.github.com/
+### github相关
 
-- github gist: https://gist.github.com/
+- [jobs](https://jobs.github.com)
 
-- github guides: https://guides.github.com/
+- [gist](https://gist.github.com)
 
-- github help: https://help.github.com/
+- [guides](https://guides.github.com)
 
-- github services: https://training.github.com/
+- [help](https://help.github.com)
 
-- github status: https://status.github.com/
+- [services](https://training.github.com)
 
-- github developer: https://developer.github.com/
+- [status](https://status.github.com)
 
-- github shop: https://github.myshopify.com/
+- [developer](https://developer.github.com)
 
-**explore**
+- [shop](https://github.myshopify.com)
+
+### explore
 
 - showcases: 分类好的热门项目
 
@@ -90,7 +88,7 @@ github用git做版本控制的项目托管平台, git是分布式版本控制工
 
 - stars: 查看你关注的仓库
 
-**个人主页**
+### 个人主页
 
 - pull requests: 管理pull requests
 
@@ -98,7 +96,7 @@ github用git做版本控制的项目托管平台, git是分布式版本控制工
 
 - gist: https://www.zhihu.com/question/21343711
 
-**repository**
+### repository
 
 仓库就是你的项目, 右上方有三个图标
 
@@ -118,13 +116,13 @@ github用git做版本控制的项目托管平台, git是分布式版本控制工
 
 - graphs: 有关仓库信息的可视化统计
 
-**how to write a book**
+### how to write a book
 
 - https://github.com/gaoxinge/Github/blob/master/content/content.md
 
-**gitpage**
+### gitpage
 
-gitpage旨在为你的gihub个人账号或者是团队账号作宣传, 或者是为你的project做推广. 简而言之, gitpage就是为你提供一个介绍性的网页
+gitpage旨在为你的gihub个人账号或者是团队账号作宣传, 或者是为你的project做推广。简而言之, gitpage就是为你提供一个介绍性的网页。
 
 - https://pages.github.com/: gitpage的介绍
 
@@ -132,14 +130,8 @@ gitpage旨在为你的gihub个人账号或者是团队账号作宣传, 或者是
 
 - http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html: based on jekyll
 
-**readme.md**
+### 文件
 
-- readme.md支持markdown语言
+- [markdown](http://blog.csdn.net/kaitiren/article/details/38513715)
 
-- http://blog.csdn.net/kaitiren/article/details/38513715
-
-**.rst**
-
-- .rst支持restructuredtext语言
-
-- http://www.sphinx-doc.org/en/stable/rest.html
+- [restructuredtext](http://www.sphinx-doc.org/en/stable/rest.html)
